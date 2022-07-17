@@ -1,6 +1,7 @@
 
 # Exercices Syntaxe Angular
 
+![pokedex](https://user-images.githubusercontent.com/79519650/179404209-be0df370-d9a8-4819-bc67-d7224b9c46f9.png)
 
 ### 1. Faire un compteur
 
